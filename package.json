@@ -1,0 +1,28 @@
+{
+  "name": "comand-line-interface-boilerplate",
+  "version": "1.0.0",
+  "description": "cli boilerplate, quick starter",
+  "main": "index.js",
+  "bin": {
+    "cli": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -b tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullwuwu/comand-line-interface-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nullwuwu/comand-line-interface-boilerplate/issues"
+  },
+  "homepage": "https://github.com/nullwuwu/comand-line-interface-boilerplate#readme"
+}

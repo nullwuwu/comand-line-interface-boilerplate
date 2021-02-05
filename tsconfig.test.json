@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+      "allowJs": false,
+      "target": "ES6",
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      "module": "commonjs",
+      "sourceMap": false,
+      "listEmittedFiles": true,
+      "alwaysStrict": true,
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "skipLibCheck": true
+  },
+  "include": [
+      "lib/**/*",
+      "bin/*",
+      "tests/*.spec.*"
+  ],
+  "exclude": [
+      "node_modules",
+  ]
+}

@@ -3,6 +3,6 @@ cli 快速模版
 
 # features
 - [x] Typescript
-- [ ] E2E
+- [x] Unit Test
 - [ ] CHANGELOG.md
 - [ ] prettier
